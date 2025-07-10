@@ -266,7 +266,7 @@ make db-reset               # Reset database to clean state
 
 ## 🏁 Summary
 
-This is a **minimal, production-ready** Lambda function for database day-2 operations that provides:
+This is a **minimal** Lambda function for database day-2 operations that provides:
 
 ✅ **Incremental migrations** with detailed logging  
 ✅ **Idempotent operations** (safe to run multiple times)  

@@ -1,4 +1,4 @@
-# Database Day-2 Operations Lambda
+# Database Migrations with Alembic Lambda Function Lab
 
 A minimal Lambda function for applying database day-2 operations (user creation, role setup, schema management) using Alembic migrations.
 
